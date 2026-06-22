@@ -210,5 +210,5 @@ lib/
 ## 👨‍💻 Author
 
 **Raja Haris**  
-SP23-BCS-011 — COMSATS University Islamabad, Wah Campus  
+COMSATS University Islamabad, Wah Campus  
 Flutter Developer Internship Assessment — DafoTalk
