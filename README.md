@@ -203,7 +203,6 @@ lib/
 ## 📂 Download
 
 - 📦 **APK** — Available in [Releases](../../releases)
-- 🎥 **Demo Video** — [Watch here](#) *(replace with your video link)*
 
 ---
 
